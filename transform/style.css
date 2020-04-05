@@ -3,5 +3,9 @@
   height: 100px;
   margin: 0 auto;
   background-color: orangered;
+  -webkit-transform: rotate(-30deg);
+          transform: rotate(-30deg);
+  -webkit-transform-origin: -20px -20px;
+          transform-origin: -20px -20px;
 }
 /*# sourceMappingURL=style.css.map */
